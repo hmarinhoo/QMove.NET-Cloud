@@ -140,3 +140,4 @@
 /home/heloisa/RiderProjects/MotoMonitoramento/MotoMonitoramento/obj/Debug/net9.0/MotoMonitoramento.pdb
 /home/heloisa/RiderProjects/MotoMonitoramento/MotoMonitoramento/obj/Debug/net9.0/MotoMonitoramento.genruntimeconfig.cache
 /home/heloisa/RiderProjects/MotoMonitoramento/MotoMonitoramento/obj/Debug/net9.0/ref/MotoMonitoramento.dll
+/home/heloisa/RiderProjects/MotoMonitoramento/MotoMonitoramento/obj/Debug/net9.0/MotoMonitoramento.sourcelink.json
