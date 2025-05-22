@@ -29,3 +29,4 @@ echo "IP público da VM: $IP"
 echo "Deploy concluído."
 echo "Conecte-se via SSH: ssh $ADMIN_USERNAME@$IP"
 echo "Use a senha que você definiu no script."
+

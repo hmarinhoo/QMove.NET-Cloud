@@ -20,3 +20,4 @@ EXPOSE 5082
 ENV ASPNETCORE_URLS=http://+:5082
 
 ENTRYPOINT ["dotnet", "MotoMonitoramento.dll"]
+
